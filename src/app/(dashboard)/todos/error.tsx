@@ -1,9 +1,9 @@
 'use client'
 
-const Error = () => {
+const ErrorUI = () => {
   return (
-    <div>Error...</div>
+    <div>ErrorUI...</div>
   )
 }
 
-export default Error
+export default ErrorUI
